@@ -19,7 +19,7 @@ function preload(){
   planeImg = loadImage("./Images/plane1.png")
   parrotImg = loadAnimation("./Images/b/badBird1.png", "./Images/b/badBird2.png", "./Images/b/badBird3.png","./Images/b/badBird4.png", "./Images/b/badBird5.png", "./Images/b/badBird6.png", 
   "./Images/b/badBird7.png", "./Images/b/badBird8.png",)
-  gameOverImg = loadImage("./Images/Game_Over_Logo.png")
+  gameOverImg = loadImage("./Images/gameOver.png")
   restartImg = loadImage("./Images/restart.png")
   thud = loadSound("./Sounds/uh oh.mp3")
   flap = loadSound("./Sounds/bird.mp3")
